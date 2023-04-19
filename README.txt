@@ -1,6 +1,6 @@
 on PyPI: 
 
-https://pypi.org/project/ccDemo/0.1.0/
+https://pypi.org/project/ccDemo/
 
 
 This contains the codes for experiments on the paper: 
