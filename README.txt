@@ -1,4 +1,6 @@
-on PyPI: https://pypi.org/project/ccDemo/0.1.0/
+on PyPI: 
+
+https://pypi.org/project/ccDemo/0.1.0/
 
 
 This contains the codes for experiments on the paper: 
